@@ -1,6 +1,6 @@
 -- Prvni radek
 -- Druhy radek
--- Treti radek
+-- Ctvrty radek
 
 Hello :)
 
