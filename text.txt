@@ -1,5 +1,7 @@
 -- Prvni radek
 -- Druhy radek
-
+-- Treti radek
 
 Hello :)
+
+Roses are red, violets are blue, I can do Git and so can you :)
